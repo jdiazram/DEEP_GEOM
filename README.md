@@ -1,4 +1,4 @@
-# Fine-grained geometric shapes: A deepclassification task
+# Fine-grained geometric shapes: A deep classification task
 English version: https://github.com/jdiazram/DEEP_GEOM/blob/b5cc3720abce33011b0dbb1940361900ebd2c2c1/README_EN.md
 
 
