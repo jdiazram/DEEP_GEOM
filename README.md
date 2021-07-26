@@ -1,3 +1,5 @@
 # DEEP_GEOM
-Version in english: 
+English version: 
+
+
 Este es el repositorio del proyecto: Fine-grained geometric shapes: A deepclassification task
