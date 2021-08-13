@@ -1,6 +1,6 @@
 # Fine-grained geometric shapes: A deep classification task
 
-![English version](https://github.com/jdiazram/DEEP_GEOM/README_EN.md)
+![English version](https://github.com/jdiazram/DEEP_GEOM/blob/master/README_EN.md)
 
 
 
