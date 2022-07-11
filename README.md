@@ -17,5 +17,5 @@ bibliography: cite.bib
 
 [@diaz-2022]
 
-
+{% bibliography --cited --file DEEP_GEOM/master/cite.bib  %}
 
