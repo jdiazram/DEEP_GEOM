@@ -1,3 +1,6 @@
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+
+
 # Fine-grained geometric shapes: A deep classification task
 
 ![English version](https://github.com/jdiazram/DEEP_GEOM/blob/master/README_EN.md)
