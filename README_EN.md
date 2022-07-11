@@ -14,7 +14,7 @@ Although the importance of Deep Learning has been well established in recent yea
 
 # Citation
 ```
-@article{Díaz-Ramírez_Alvarez-Alvarez_Badilla-Torrico_2022, 
+@article{Diaz-Ramirez_Alvarez-Alvarez_Badilla-Torrico_2022, 
   title={Fine-grained geometric shapes: A deep classification task}, 
   volume={20}, 
   url={https://latamt.ieeer9.org/index.php/transactions/article/view/6052}, 
