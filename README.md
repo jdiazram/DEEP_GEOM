@@ -15,7 +15,7 @@ output:
 bibliography: cite.bib
 ---
 
-[@Díaz-Ramírez_Alvarez-Alvarez_Badilla-Torrico_2022]
+[@diaz-2022]
 
 
 
