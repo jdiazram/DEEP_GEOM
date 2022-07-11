@@ -6,9 +6,13 @@ This is the repository of the project: Fine-grained geometric shapes: A deepclas
 
 [Link paper](https://latamt.ieeer9.org/index.php/transactions/article/view/6052/)
 
-Objective: Compare deep learning models using convolutional neural networks, in order to classify fine-grained categories in images of geometric shapes.
+# Objective 
+Compare deep learning models using convolutional neural networks, in order to classify fine-grained categories in images of geometric shapes.
 
-Citation: 
+# Abstract
+Although the importance of Deep Learning has been well established in recent years, its role in classifying objects in images is far from being understood in fine categories and this open problem remains to be solved in geometric shapes. Here we compare deep learning models using convolutional neural networks, in order to classify fine categories in geometrical figure type images. Through the proposed method we found that there are several configurations of base models that obtain accuracies close to 80%. The proposed method also allowed us to identify that using Transfer Learning increases the accuracy by about 7% compared to the base models. Overall, these data show that the number of examples plays an important role in obtaining good classification results, as well as their quality, since noisy data in a dataset can severely reduce the generalization performance of the model in question.
+
+# Citation
 ```
 @article{Díaz-Ramírez_Alvarez-Alvarez_Badilla-Torrico_2022, 
   title={Fine-grained geometric shapes: A deep classification task}, 

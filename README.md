@@ -6,9 +6,13 @@ Este es el repositorio del proyecto: Fine-grained geometric shapes: A deepclassi
 
 [Link paper](https://latamt.ieeer9.org/index.php/transactions/article/view/6052/)
 
-Objetivo: comparar modelos de aprendizaje profundo utilizando redes neuronales convolucionales, con el fin de clasificar categoríasfinas en imágenes del tipo figuras geométricas.
+# Objetivo 
+comparar modelos de aprendizaje profundo utilizando redes neuronales convolucionales, con el fin de clasificar categoríasfinas en imágenes del tipo figuras geométricas.
 
-Citar: 
+# Resumen
+Aunque la importancia de Deep Learning ha sido bien establecida en los últimos años, su papel en la clasificación de objetos en imágenes está lejos de ser entendido en categorías finas y este problema abierto aún queda por resolver en figuras geométricas. Aquí comparamos modelos de aprendizaje profundo utilizando redes neuronales convolucionales, con el fin de clasificar categorías finas en imágenes de tipo figura geométrica. A través del método propuesto encontramos que existen varias configuraciones de modelos base que obtienen precisiones cercanas al 80%. El método propuesto también nos permitió identificar que al utilizar el Transferencia de Aprendizaje se incrementa la precisión en aproximadamente un 7% en comparación con los modelos base. En general, estos datos muestran que el número de ejemplos juega un papel importante en la obtención de buenos resultados de clasificación, así como su calidad, ya que los datos ruidosos en un conjunto de datos pueden reducir severamente el rendimiento de generalización del modelo en cuestión.
+
+# Citar: 
 ```
 @article{Díaz-Ramírez_Alvarez-Alvarez_Badilla-Torrico_2022, 
   title={Fine-grained geometric shapes: A deep classification task}, 
