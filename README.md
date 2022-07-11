@@ -8,18 +8,14 @@ Objetivo: comparar modelos de aprendizaje profundo utilizando redes neuronales c
 
 Citar: 
 
-`
-@article{Díaz-Ramírez_Alvarez-Alvarez_Badilla-Torrico_2022, 
-    title={Fine-grained geometric shapes: A deep classification task}, 
-    volume={20}, 
-    number={7}, 
-    journal={IEEE Latin America Transactions}, 
-    author={Díaz-Ramírez, Jorge and Alvarez-Alvarez, Fabrizio and Badilla-Torrico, Ximena}, 
-    year={2022}, 
-    month={Jun.}, 
-    pages={1051–1057} 
-}
-`
+---
+output:
+  md_document:
+    variant: markdown_github
+bibliography: cite.bib
+---
+
+[@Díaz-Ramírez_Alvarez-Alvarez_Badilla-Torrico_2022]
 
 
 
