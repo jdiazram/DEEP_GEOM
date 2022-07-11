@@ -6,11 +6,10 @@ Este es el repositorio del proyecto: Fine-grained geometric shapes: A deepclassi
 
 Objetivo: comparar modelos de aprendizaje profundo utilizando redes neuronales convolucionales, con el fin de clasificar categoríasfinas en imágenes del tipo figuras geométricas.
 
-Citation: 
+Citar: 
 
-
-@article{
-    Díaz-Ramírez_Alvarez-Alvarez_Badilla-Torrico_2022, 
+`
+@article{Díaz-Ramírez_Alvarez-Alvarez_Badilla-Torrico_2022, 
     title={Fine-grained geometric shapes: A deep classification task}, 
     volume={20}, 
     number={7}, 
@@ -20,6 +19,7 @@ Citation:
     month={Jun.}, 
     pages={1051–1057} 
 }
+`
 
 
 
