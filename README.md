@@ -4,8 +4,7 @@
 
 Este es el repositorio del proyecto: Fine-grained geometric shapes: A deepclassification task
 
-<a href="https://latamt.ieeer9.org/index.php/transactions/article/view/6052" target="_blank">Link paper</a>.
-[Link paper](https://latamt.ieeer9.org/index.php/transactions/article/view/6052)
+![Link paper](https://latamt.ieeer9.org/index.php/transactions/article/view/6052)
 
 Objetivo: comparar modelos de aprendizaje profundo utilizando redes neuronales convolucionales, con el fin de clasificar categoríasfinas en imágenes del tipo figuras geométricas.
 
