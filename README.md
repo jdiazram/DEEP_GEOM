@@ -17,6 +17,7 @@ Citar:
   author={Díaz-Ramírez, Jorge and Alvarez-Alvarez, Fabrizio and Badilla-Torrico, Ximena}, 
   year={2022}, 
   month={Jun.}, 
-  pages={1051–1057} }
+  pages={1051–1057} 
+  }
 #+END_SRC
 
