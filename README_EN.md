@@ -14,15 +14,15 @@ Although the importance of Deep Learning has been well established in recent yea
 
 # Citation
 ```
-@article{Diaz-Ramirez_Alvarez-Alvarez_Badilla-Torrico_2022, 
-  title={Fine-grained geometric shapes: A deep classification task}, 
-  volume={20}, 
-  url={https://latamt.ieeer9.org/index.php/transactions/article/view/6052}, 
-  number={7}, 
+@ARTICLE{9827467,
+  author={Díaz-Ramírez, Jorge and Alvarez-Alvarez, Fabrizio and Badilla-Torrico, Ximena},
   journal={IEEE Latin America Transactions}, 
-  author={Díaz-Ramírez, Jorge and Alvarez-Alvarez, Fabrizio and Badilla-Torrico, Ximena}, 
-  year={2022}, 
-  month={Jun.}, 
-  pages={1051–1057} 
+  title={Fine-grained geometric shapes: A deep classification task}, 
+  year={2022},
+  month={Jun.},
+  volume={20},
+  number={7},
+  pages={1051-1057},
+  doi={10.1109/TLA.2021.9827467}
   }
 ```
