@@ -19,6 +19,7 @@ Aunque la importancia de Deep Learning ha sido bien establecida en los últimos 
   journal={IEEE Latin America Transactions}, 
   title={Fine-grained geometric shapes: A deep classification task}, 
   year={2022},
+  month={Jun.},
   volume={20},
   number={7},
   pages={1051-1057},
