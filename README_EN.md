@@ -4,7 +4,7 @@
 
 This is the repository of the project: Fine-grained geometric shapes: A deepclassification task
 
-[Link paper](https://latamt.ieeer9.org/index.php/transactions/article/view/6052/)
+[Link paper](https://ieeexplore.ieee.org/document/9827467)
 
 # Objective 
 Compare deep learning models using convolutional neural networks, in order to classify fine-grained categories in images of geometric shapes.
